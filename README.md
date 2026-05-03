@@ -1,4 +1,4 @@
-}
+
 # Network Troubleshooting (DNS Test)
 
 ## Project Summary
