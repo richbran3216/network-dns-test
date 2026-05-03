@@ -9,7 +9,7 @@ In this project, I tested DNS and internet connectivity using command line tools
 - ping command
 
 ## Environment
-- Chromebook (Linux/Terminal)
+- Chromebook (crosh/Terminal)
 
 ## What I Did
 I tested connectivity to external servers using Google's DNS (8.8.8.8).
