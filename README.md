@@ -24,7 +24,7 @@ I tested connectivity to external servers using Google's DNS (8.8.8.8).
 The test returned successful replies, confirming that the internet connection was active.
 
 ## Screenshots
-(Add your screenshot here)
+![DNS Test](dns.png)
 
 ## Conclusion
 This project helped me understand how to test internet connectivity using DNS servers
